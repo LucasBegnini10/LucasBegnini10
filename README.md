@@ -2,8 +2,11 @@
 
 <h3> 👨‍💻Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvedor fullstack.
-- 💼 &nbsp; Estagiando na Qyon.  
+- 🤔 &nbsp; Desenvolvedor **Full Stack**.
+- 💼 &nbsp; Estagiando na Qyon.
+- 🖤 &nbsp; Apaixonado em resolver problemas usando códigos.
+- 🌱 &nbsp; Atualmente estudando **SwiftUI**. 
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
