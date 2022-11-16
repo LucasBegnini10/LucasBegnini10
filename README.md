@@ -40,4 +40,4 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Begnini](https://img.shields.io/badge/-EDUARDODIAS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucas-begnini)](https://br.linkedin.com/in/lucas-begnini)
+[![Linkedin: Lucas Begnini](https://img.shields.io/badge/-LucasBegnini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucas-begnini)](https://br.linkedin.com/in/lucas-begnini)
