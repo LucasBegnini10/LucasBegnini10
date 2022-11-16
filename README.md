@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Desenvolvedor **Full Stack**.
 - 💼 &nbsp; Estagiando na Qyon.
-- 🖤 &nbsp; Apaixonado em resolver problemas usando códigos.
+- 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
 - 🌱 &nbsp; Atualmente estudando **SwiftUI**. 
 
 
