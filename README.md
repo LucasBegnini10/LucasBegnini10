@@ -15,7 +15,7 @@
   ![Chakra-ui](https://img.shields.io/badge/-ChakraUi-333333?style=flat&logo=chakraui)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=REDUX) 
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=REDUX) 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
