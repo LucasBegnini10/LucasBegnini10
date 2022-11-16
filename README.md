@@ -8,15 +8,25 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js) 
+  ![Chakra-ui](https://img.shields.io/badge/-ChakraUi-333333?style=flat&logo=chakraui)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=REDUX) 
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring) 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+  
 
 
 **Ferramentas de Desenvolvimento**
