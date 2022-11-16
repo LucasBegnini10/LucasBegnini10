@@ -30,7 +30,8 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
 
 <br/>
 
