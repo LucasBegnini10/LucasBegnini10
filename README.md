@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Desenvolvedor **Full Stack**.
 - 💼 &nbsp; Estagiando na Qyon.
 - 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
-- 🌱 &nbsp; Atualmente estudando **SwiftUI**. 
+- 🌱 &nbsp; Atualmente estudando **AWS**. 
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
