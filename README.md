@@ -2,8 +2,7 @@
 
 <h3> 👨‍💻Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvedor **Full Stack**.
-- 💼 &nbsp; Estagiando na Qyon.
+- 💼 &nbsp; Desenvolvedor **Full Stack Júnior** na Qyon.
 - 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
 - 🌱 &nbsp; Atualmente estudando **AWS**. 
 
