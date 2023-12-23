@@ -2,9 +2,9 @@
 
 <h3> 👨‍💻Sobre mim </h3>
 
-- 💼 &nbsp; Desenvolvedor **Full Backend** na Qyon.
+- 💼 &nbsp; Desenvolvedor **Backend** na Qyon.
 - 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
-- 🌱 &nbsp; Atualmente estudando **AWS**. 
+- 🌱 &nbsp; Atualmente estudando **Spring Boot**. 
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
