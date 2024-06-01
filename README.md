@@ -2,7 +2,6 @@
 
 <h3> 👨‍💻Sobre mim </h3>
 
-- 💼 &nbsp; Desenvolvedor **Backend** na Qyon.
 - 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
 - 🌱 &nbsp; Atualmente estudando **Spring Boot**. 
 
