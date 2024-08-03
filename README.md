@@ -3,7 +3,7 @@
 <h3> 👨‍💻Sobre mim </h3>
 
 - 🖤 &nbsp; Apaixonado por resolver problemas usando códigos.
-- 🌱 &nbsp; Atualmente estudando **Spring Boot**. 
+- 🌱 &nbsp; Atualmente estudando **Azure**. 
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
